@@ -12,7 +12,7 @@ import { SectionHeading, SectionTitle } from "../styles/SectionHeading";
 import { StyledParagraph } from "../styles/Typography.styled";
 import myImage from "../../assets/my-image.jpg";
 import downloadIcon from "../../assets/icons/download-icon.svg";
-import resume from "Resume.pdf";
+import resume from "/resume.pdf";
 
 const About = () => {
   return (
