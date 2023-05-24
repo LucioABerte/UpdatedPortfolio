@@ -12,7 +12,7 @@ import { SectionHeading, SectionTitle } from "../styles/SectionHeading";
 import { StyledParagraph } from "../styles/Typography.styled";
 import myImage from "../../assets/my-image.jpg";
 import downloadIcon from "../../assets/icons/download-icon.svg";
-import resume from "/resume.pdf";
+import resume from "/Resume.pdf";
 
 const About = () => {
   return (
@@ -43,7 +43,7 @@ const About = () => {
             <ResumeLink
               href={resume}
               icon={downloadIcon}
-              download="LucioBerteCV"
+              download={resume}
             >
               Download Resume
             </ResumeLink>
