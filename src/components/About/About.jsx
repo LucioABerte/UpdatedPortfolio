@@ -28,16 +28,15 @@ const About = () => {
         </AboutImageContainer>
         <AboutDetailsContainer>
           <StyledParagraph>
-            My name is Lucio Berté, currently pursuing a solid job Experience in the IT world. I
-            am a passionate full stack developer based in Argentina.
+          I am Lucio Berté, a passionate Frontend Developer with experience in JavaScript, React, Express and the MERN stack with an alternative to Firebase. My focus on UX/UI design using MUI, Styled and other libraries, allows me to create attractive and functional interfaces that improve the user experience.
           </StyledParagraph>
           <StyledParagraph>
-          I have Experience in coding web pages for personal and commercial portfolios, as well as specific functionalities such as creating a Login, or making HTTP requests using API's. knowledge in Computational Thinking and Algorithmic Logic. Imperative, Functional, and object-oriented programming, database, software architecture, and Responsive Design.
+          Currently, I lead an innovative project that optimizes the economic organization of automotive workshops, with a fixed cost control panel and a budget generator to facilitate and obtain optimal profits in each job. In addition, I lead a collaborative development team together with a professional degree in economics and two digital marketing agents.
           </StyledParagraph>
           <StyledParagraph>
-            I have eagerness to learn something new every day and I love to
-            share my knowledge to my fellow students and developers. And I am
-            looking forward to talk with you!
+            I love facing new challenges and turning ideas into reality. 
+            I consider software development to be an art form, and I enjoy fusing my technical skills with my creativity.
+            I am excited about the possibility of contributing my skills and passion at your Company.
           </StyledParagraph>
           <Resume>
             <ResumeLink
