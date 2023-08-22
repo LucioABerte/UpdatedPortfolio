@@ -7,6 +7,10 @@ import {
   wedding2,
   heroes,
   heroes2,
+  tesla,
+  rent,
+  crypto,
+  home,
   project4Laptop,
   project4Mobile,
   project5Laptop,
@@ -18,6 +22,38 @@ import {
 export const projectData = [
   {
     id: 1,
+    image: tesla,
+    transitionImage: tesla,
+    title: "Tesla Clone Landing",
+    codeLink: "https://github.com/LucioABerte/CalendarApp",
+    liveLink: "https://tesla-clone-lucioaberte.vercel.app/",
+  },
+  {
+    id: 2,
+    image: rent,
+    transitionImage: rent,
+    title: "Rent App",
+    codeLink: "https://github.com/LucioABerte/HeroesSpa",
+    liveLink: "https://real-state-lucioaberte.vercel.app/",
+  },
+  {
+    id: 3,
+    image: crypto,
+    transitionImage: crypto,
+    title: "Crypto Landing Page",
+    codeLink: "https://github.com/LucioABerte/JournalCrud",
+    liveLink: "https://crypto-landing-lucioaberte.vercel.app/",
+  },
+  {
+    id: 4,
+    image: home,
+    transitionImage: home,
+    title: "SmartHome website",
+    codeLink: "https://github.com/LucioABerte/Wedding",
+    liveLink: "https://home-landing-lucioaberte.vercel.app/",
+  },
+  {
+    id: 5,
     image: CalendarApp,
     transitionImage: CalendarApp2,
     title: "A Calendar CRUD App",
@@ -25,7 +61,7 @@ export const projectData = [
     liveLink: "https://calendar-app-lucioaberte.vercel.app/",
   },
   {
-    id: 2,
+    id: 6,
     image: heroes,
     transitionImage: heroes2,
     title: "Heroes SPA",
@@ -33,7 +69,7 @@ export const projectData = [
     liveLink: "https://heroes-spa-lucioaberte.vercel.app/",
   },
   {
-    id: 3,
+    id: 7,
     image: JournalApp,
     transitionImage: JournalApp2,
     title: "Journal Crud App",
@@ -41,12 +77,14 @@ export const projectData = [
     liveLink: "https://journal-crud.vercel.app/",
   },
   {
-    id: 4,
+    id: 8,
     image: wedding,
     transitionImage: wedding2,
     title: "Wedding website",
     codeLink: "https://github.com/LucioABerte/Wedding",
     liveLink: "https://jazminylucio.netlify.app/",
   },
-  
 ];
+
+
+

@@ -6,6 +6,10 @@ import wedding from "/wedding.jpg";
 import wedding2 from "/wedding2.jpg";
 import heroes from "/heroes.jpg";
 import heroes2 from "/heroes2.jpg";
+import tesla from "/tesla.png";
+import rent from "/rent.png";
+import crypto from "/crypto.png";
+import home from "/home.png"
 import project2Laptop from "../../assets/projects/project-2-laptop.jpg";
 import project2Mobile from "../../assets/projects/project-2-mobile.jpg";
 import project3Laptop from "../../assets/projects/project-3-laptop.jpg";
@@ -26,6 +30,10 @@ export {
   wedding2,
   heroes,
   heroes2,
+  tesla,
+  rent,
+  crypto,
+  home,
   project2Laptop,
   project2Mobile,
   project3Laptop,
